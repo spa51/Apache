@@ -1,0 +1,7 @@
+function definitiva($A,$B,$C){
+
+            raizc=sqrt($B*$B-4*$A*$C);
+          $x1=(-$B+raizc)/(2*$A));
+          $x2=(-$B-raizc)/(2*$A));
+ return $x1;
+ return $x2;
